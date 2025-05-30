@@ -1,4 +1,8 @@
-## Hi there 👋
+# سیستم مدیریت داروهای دندانپزشکی  
+نمونه اولیه توسط [مهدی یوسفی]  
+- قابلیت‌ها:  
+  ✅ هشدار تداخلات دارویی  
+  ✅ محاسبه خودکار دوز  
 
 <!--
 **MedTech-Mahdi/MedTech-Mahdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
